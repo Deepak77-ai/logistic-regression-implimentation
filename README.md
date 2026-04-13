@@ -22,6 +22,7 @@ It focuses on **Logistic Regression, Hyperparameter Tuning, and Multiclass Class
 ---
 
 ## 📁 Repository Structure
+```
 📦 Machine-Learning-Classification
 ┣ 📜 Logistic Regression Implementation - 1.ipynb
 ┣ 📜 Logistic Regression Implementation - 2.ipynb
@@ -29,6 +30,7 @@ It focuses on **Logistic Regression, Hyperparameter Tuning, and Multiclass Class
 ┣ 📜 Multiclass classification implementation - 1.ipynb
 ┣ 📜 Multiclass classification implementation - 2.ipynb
 ┗ 📜 README.md
+```
 
 
 
